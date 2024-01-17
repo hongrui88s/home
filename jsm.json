@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar",
+  "spider": "https://github.com/hongrui88s/home/blob/main/pg.jar",
   "sites": [
     {
       "key": "Miss",
